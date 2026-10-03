@@ -1,12 +1,4 @@
-### Hiii~! <3
-I'm interested in strong copyleft, free software and open source, in that order.
-
-I write documentation and create small programs.
-
-Generally you can find me on the internet with my full name.
-
-I also have a GitHub Sponsors page, but you are honestly much better off sponsoring other people working on great software projects.
-
+You can find me on the internet with my full name. Freedom technologies such as [Bitcoin](https://en.wikipedia.org/wiki/Nostr) and [Nostr](https://en.wikipedia.org/wiki/Nostr) are interesting.
 <details>
 
 <summary>If you're here for the GitHub 2023 hack</summary>
